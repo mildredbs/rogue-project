@@ -1,10 +1,11 @@
-
 @font-face {
     font-family: 'Wisdom Script';
     src: url('../fonts/wisdom-script.otf')format('operntype');
 }
 
+
 /***** grid *****/
+
 .full-width {
     width: 1200px;
     margin: 0 auto;
@@ -40,7 +41,6 @@ nav {
 nav ul {
     margin: 0;
     padding: 0;
-    
 }
 
 nav ul li {
@@ -57,14 +57,11 @@ nav ul li a {
 }
 
 .main-image {
-    
     padding-bottom: 10px;
-    
 }
 
 .main-image img {
     border-bottom: 3px solid #77a466;
-    
 }
 
 .main-title h3 {
@@ -76,7 +73,6 @@ nav ul li a {
 .main-title p {
     font-size: 16px;
     line-height: 20px;
-    
 }
 
 .section-one,
@@ -126,7 +122,6 @@ nav ul li a {
     font-size: 16px;
     line-height: 24px;
     padding-left: 20px;
-    
 }
 
 footer {
@@ -134,25 +129,11 @@ footer {
     border-top: 1px solid #eee;
     margin: 0 auto;
     text-align: center;
-    
 }
 
 footer span {
-    font-family: 'Wisdon Script', cursive;
+    font-family: 'Wisdon Script';
     text-transform: lowercase;
     color: #77a466;
     font-size: 14px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
